@@ -1,4 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/weojqjymo6udgyfg/branch/main?svg=true)](https://ci.appveyor.com/project/VMoiseev/js-advanced-diploma-pflw9/branch/main)
+
+## [Игра](https://vmoiseev.github.io/js-advanced-diploma_/)
+
 # AJS. Retro Game
 
 ###### tags: `netology` `advanced js`
